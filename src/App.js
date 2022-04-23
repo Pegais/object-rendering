@@ -14,6 +14,7 @@ export default function App() {
       </>
     )
   })
+  // console.log(headerArr,"this is heaDERaRR")
   console.log("this is app.js ",title)
   return (
     <div>
